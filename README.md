@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on frontend development<br>🌱 I’m currently learning machine Learning<br>🤝 I’m looking for help with backend develpoers<br>👨‍💻 All of my projects are available at https://github.com/fardeen-khan-1107<br>💬 Ask me about releated to any frontend issue<br>📫 How to reach me fardeenmrkhan@gmail.com<br>⚡ Fun fact I am a cool guy
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fardeen-khan-1107&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fardeen-khan-b809252a1/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/HourArt9948/) 
@@ -12,8 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fardeen-khan-1107&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fardeen-khan-1107&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fardeen-khan-1107&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
