@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend development<br>🌱 I’m currently learning machine Learning<br>🤝 I’m looking for help with backend develpoers<br>👨‍💻 All of my projects are available at https://github.com/fardeen-khan-1107<br>💬 Ask me about releated to any frontend issue<br>📫 How to reach me fardeenmrkhan@gmail.com<br>⚡ Fun fact I am a cool guy
+🔭 I’m currently working as AI agent developer<br>🌱 I’m currently learning machine Learning<br>🤝 I’m looking for help with backend develpoers<br>👨‍💻 All of my projects are available at https://github.com/fardeen-khan-1107<br>💬 Ask me about releated to any full stack dev issue<br>📫 How to reach me fardeenmrkhan@gmail.com<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fardeen-khan-1107&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
